@@ -20,7 +20,7 @@
 <p align="center"">
 💡 Always looking for ways to improve <strong>efficiency</strong> and make project monitoring and control <strong>smarter</strong> <br>
 🔍 Exploring <strong>DIY</strong> simple solution projects, scheduling <strong>hacks</strong>, and <strong>insights</strong> on workflows. <br>
-🤖 Automating workflows with <strong>VBA, Excel, and Primavera P6<\strong> <br>
+🤖 Automating workflows with <strong>VBA, Excel, and Primavera P6</strong> <br>
 📊 Passionate about <strong>Visualization & Schedule Optimization</strong> <br>
 </p>
 <br>
